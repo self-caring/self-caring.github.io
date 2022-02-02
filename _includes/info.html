@@ -1,0 +1,11 @@
+
+    <!-- Example row of columns -->
+    <div class="row">
+            {% for informasi in site.informasi %}
+      <div class="col-lg-5 shadow-sm mr-5 mb-5">
+            <h3>{{informasi.title}}</h3>
+            <p>{{informasi.subtitle}}</p>
+            <p><a class="btn btn-secondary" href="{{site.url}}{{site.baseurl}}{{informasi.url}}" role="button">Selengkapnya &raquo;</a></p>
+      </div>
+            {% endfor %}
+    </div>

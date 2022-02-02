@@ -1,0 +1,34 @@
+title:              Self-Care
+email:              rizkymaaa@gmail.com
+description:        Yuk, mulai sekarang pandai untuk mengendalikan diri dan banyak membaca tentang edukasi seksual agar terhindar dari perilaku seks bebas
+author:             author
+baseurl:            ""
+url:                "https://self-caring.github.io"
+
+# Social Profiles
+twitter_username:  
+github_username:  
+facebook_username: "hilal.ckece.9"
+instagram_username: "rizkymaaa"  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+# paginate:           5
+# paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  # - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+collections:
+  informasi:
+    output: true
+    permalink: /informasi/:path/
+
+sass:
+  sass_dir: _sass
+  style: compressed
