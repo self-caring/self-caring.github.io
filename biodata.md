@@ -1,5 +1,0 @@
----
-layout: informasi
-title: "Biodata"
----
-
