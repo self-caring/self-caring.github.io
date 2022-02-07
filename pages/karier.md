@@ -1,5 +1,5 @@
 ---
-layout: karier
+layout: informasi
 title: "Karier"
 permalink: /karier
 ---

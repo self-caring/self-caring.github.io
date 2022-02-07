@@ -2,6 +2,7 @@
 layout: informasi
 title: "Profil BK"
 permalink: /profil-bk
+background: '/img/bg-bk.jpg'
 ---
 <div class="container profile">
     <!-- Three columns of text below the carousel -->

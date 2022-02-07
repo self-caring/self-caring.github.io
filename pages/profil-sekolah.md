@@ -2,8 +2,10 @@
 layout: informasi
 title: "Profil Sekolah"
 permalink: /profil-sekolah
-background: '../img/bg-smkn.jpg'
+background: '/img/bg-smkn3.jpg'
 ---
+
+<img class="img-fluid img-center logo" src="/img/smkn3-logo.png" alt="Stop Seks">
 
 # SEJARAH PENDIRIAN
 Sekolah Menengah Kejuruan (SMK) Negeri 3 Cimahi pada awalnya bernama Sekolah Kesejahteraan Keluarga Atas (SKKA) didirikan untuk memenuhi tuntutan kebutuhan lulusan dari Sekolah Kesejahteraan Keluarga Pertama Negeri (SKKP) Cimahi. Beberapa tokoh yang menjadi pemrakarsa utama pendirian SKKA, diantaranya adalah:
@@ -21,6 +23,13 @@ Pada tanggal 25 April 1991 SMKK Negeri 1 Cimahi pindah ke gedung baru yang beral
 
 # Tentang Kami
 SMK Negeri 3 Cimahi adalah salah satu sekolah pilihan yang tepat yang siap menyiapkan tenaga kerja tingkat menengah yang menguasai Ilmu Pengetahuan Teknologi dengan dilandasi Iman dan Takwa serta berwawasan global, mampu bekerja sama , profesional, mandiri, sesuai dengan tuntutan dunia kerja dalam mengembangkan pembangunan kota Cimahi.
+
+Bidang Keahlian diantaranya:
+1. Jasa Boga
+2. Busana Butik
+3. Perhotelan
+4. Multimedia
+5. Administrasi Perkantoran
 
 <br>
 
@@ -43,3 +52,5 @@ JL. SUKARASA NO. 136 CITEUREUP, Citeureup, Kec. Cimahi Utara, Kota Cimahi Prov. 
 <div class="map-responsive">
 <iframe class="yt-embed" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.2577864611544!2d107.5545262147726!3d-6.85967659504281!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e411f0f5597f%3A0xa1cc1d8cfbf23494!2sCimahi%20State%20Vocational%20High%20School%203!5e0!3m2!1sen!2sid!4v1644056413488!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
+
+<br>
