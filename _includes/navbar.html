@@ -8,34 +8,6 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <!-- <li class="nav-item"> -->
-        <!--   <a class="nav-link" href="{{site.url}}{{ site.baseurl }}">Beranda</a> -->
-        <!-- </li> -->
-        <!-- <li class="nav-item dropdown"> -->
-        <!--   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"> -->
-        <!--     Informasi -->
-        <!--   </a> -->
-        <!--   <div class="dropdown-menu" aria-labelledby="navbarDropdown"> -->
-        <!--     {% for informasi in site.informasi %} -->
-        <!--     <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ informasi.url}}">{{informasi.title}}</a> -->
-        <!--     {% endfor %} -->
-        <!--   </div> -->
-        <!-- </li> -->
-        <!-- <li class="nav-item"> -->
-        <!--   <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/tentang">Tentang</a> -->
-        <!-- </li> -->
-
-
-        <!-- <li class="nav-item dropdown"> -->
-        <!--   <a class="nav-link dropdown-toggle" href="{{ site.url }}{{ site.baseurl }}/pribadi-sosial" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"> -->
-        <!--     Pribadi/Sosial -->
-        <!--   </a> -->
-        <!--   <div class="dropdown-menu" aria-labelledby="navbarDropdown"> -->
-        <!--     {% for informasi in site.informasi %} -->
-        <!--     <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ informasi.url}}">{{informasi.title}}</a> -->
-        <!--     {% endfor %} -->
-        <!--   </div> -->
-        <!-- </li> -->
         <li class="nav-item">
           <a class="nav-link" href="{{site.url}}{{ site.baseurl }}">Beranda</a>
         </li>
@@ -51,7 +23,8 @@
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a type="button" class="nav-link dropdown-toggle" href="{{ site.url }}{{ site.baseurl }}/pribadi-sosial" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Pribadi/Sosial</a>
+          <!-- <a class="nav-link dropdown-toggle" href="{{ site.url }}{{ site.baseurl }}/pribadi-sosial" id="navbarDropdown" role="button" aria-expanded="false">Pribadi/Sosial</a> -->
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Pribadi/Sosial</a>
           <ul class="dropdown-menu">
                 <li>
                   {% for informasi in site.informasi %}
