@@ -1,4 +1,13 @@
 // Styling for the navbar
+/* ============ desktop view ============ */
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}	
+/* ============ desktop view .end// ============ */
+
 #mainNav {
     position: absolute;
     border-bottom: 1px solid $gray-200;
@@ -34,7 +43,7 @@
         background: transparent;
 
         .navbar-brand {
-            padding: 10px 20px;
+            padding: 10px 10px;
             color: $white;
 
             &:focus,
@@ -46,7 +55,7 @@
         .navbar-nav {
             >li.nav-item {
                 >a {
-                    padding: 10px 20px;
+                    padding: 10px 10px;
                     color: $white;
 
                     &:focus,

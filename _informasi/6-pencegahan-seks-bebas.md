@@ -6,7 +6,7 @@ permalink: "/pencegahan-seks-bebas"
 ---
 ## Cegah Seks Bebas Tuhh Gimana Yaa..
 
-<img class="img-fluid center" src="/img/sb-pencegahan.png" alt="Melibatkan Pertemanan">
+<img class="img-fluid img-center" src="/img/sb-pencegahan.png" alt="Melibatkan Pertemanan">
 
 
 a. Peran kedua orang tua 

@@ -8,11 +8,11 @@ permalink: "/dampak-seks-bebas"
 ## Seks Bebas Dampaknya Apa Sihh
 a. Kehamilan yang tidak diinginkan.
 
-<img class="img-fluid center" src="/img/sb-kehamilan.jpg" alt="Kehamilan">
+<img class="img-fluid img-center" src="/img/sb-kehamilan.jpg" alt="Kehamilan">
 
 b. Penyakit menular seksual. 
 
-<img class="img-fluid center" src="/img/sb-penyakit-menular.jpg" alt="HIV AIDS">
+<img class="img-fluid img-center" src="/img/sb-penyakit-menular.jpg" alt="HIV AIDS">
 Gejala-gejala penyakit menular seksual pada laki-laki: 
 1. Bintil-bintil berisi cairan, lecet, atau borok pada venis/alat kelamin 
 2. Luka tidak sakit, keras, dan berwarna merah pada alat kelamin. 

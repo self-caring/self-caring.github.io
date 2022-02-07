@@ -93,11 +93,19 @@ img::-moz-selection {
   display: block;
 }
 
-.center {
+.img-center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+@media only screen and (max-width: 480px) {
+  .img-center {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
 }
 
 .quote {
@@ -119,3 +127,50 @@ img::-moz-selection {
   margin-left: auto;
   margin-right: auto;
 }
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.showcase .showcase-text {
+  padding: 3rem;
+}
+.showcase .showcase-img {
+  min-height: 30rem;
+  background-size: cover;
+}
+@media (min-width: 768px) {
+  .showcase .showcase-text {
+    padding: 7rem;
+  }
+}
+
+.profile h3{
+  margin-top: 15px;
+  font-size: 22px;
+  text-align: center;
+}
+
+.profile p{
+  font-size: 18px;
+  text-align: center;
+}
+
+.profile img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+

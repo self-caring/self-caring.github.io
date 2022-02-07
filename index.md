@@ -1,4 +1,4 @@
 ---
 layout: home
-background: '../img/bg.png'
+background: '../img/bg-smkn3.png'
 ---

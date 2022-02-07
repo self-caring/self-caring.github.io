@@ -8,7 +8,7 @@ permalink: "/mengatasi-perilaku-seks-bebas"
 ## Seks Bebas Ngatasinnya Gimana?
 
 
-<img class="img-fluid center" src="/img/sb-mengatasi.jpg" alt="Melibatkan Pertemanan">
+<img class="img-fluid img-center" src="/img/sb-mengatasi.jpg" alt="Melibatkan Pertemanan">
 
 a. Membuat komitmen serta berusaha keras mematuhi komitmen itu. 
 

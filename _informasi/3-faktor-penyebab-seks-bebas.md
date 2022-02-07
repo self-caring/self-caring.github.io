@@ -7,7 +7,7 @@ permalink: "/faktor-seks-bebas"
 ---
 ## Penyebab Seks Bebas Itu Apa Yaa…???
 
-<img class="img-fluid center" src="/img/sb-faktor.webp" alt="Nafsu Seksual">
+<img class="img-fluid img-center" src="/img/sb-faktor.webp" alt="Nafsu Seksual">
 
 a. Perubahan hormon ketika seseorang memasuki masa remaja. Hal ini mengakibatkan organ-organ seks menjadi matang dan membutuhkan penyaluran. 
 
