@@ -26,11 +26,12 @@
           <!-- <a class="nav-link dropdown-toggle" href="{{ site.url }}{{ site.baseurl }}/pribadi-sosial" id="navbarDropdown" role="button" aria-expanded="false">Pribadi/Sosial</a> -->
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Pribadi/Sosial</a>
           <ul class="dropdown-menu">
-                <li>
-                  {% for informasi in site.informasi %}
-                  <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ informasi.url}}">{{informasi.title}}</a>
-                  {% endfor %}
-                </li>
+                <!-- <li> -->
+                <!--   {% for informasi in site.informasi %} -->
+                <!--   <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ informasi.url}}">{{informasi.title}}</a> -->
+                <!--   {% endfor %} -->
+                <!-- </li> -->
+                <li><a class="dropdown-item" href="{{site.url}}{{ site.baseurl }}/pribadi-sosial">Bahaya Seks Bebas</a></li>
           </ul>
         </li>
 
@@ -41,7 +42,7 @@
           <a class="nav-link" href="{{site.url}}{{ site.baseurl }}/karier">Karier</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{site.url}}{{ site.baseurl }}/Prestasi">Prestasi</a>
+          <a class="nav-link" href="{{site.url}}{{ site.baseurl }}/prestasi">Prestasi</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{site.url}}{{ site.baseurl }}/dokumentasi">Dokumentasi</a>
