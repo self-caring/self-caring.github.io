@@ -3,6 +3,7 @@ layout: informasi
 title: "Pencegahan Seks Bebas"
 subtitle: "Cara mencegah perilaku seks bebas adalah menjauhi diri dari segala hal yang mempengaruhi bangkitnya syahwat dan yang mengajak untuk berbuat nista."
 permalink: "/pencegahan-seks-bebas"
+background: '/img/posts/bg-05.jpg'
 ---
 ## Cegah Seks Bebas Tuhh Gimana Yaa..
 

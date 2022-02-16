@@ -179,3 +179,10 @@ img::-moz-selection {
   width: 250px;
   margin-bottom:50px
 }
+
+@media (min-width: 768px) {
+  .embed-responsive {
+    height: 500px !important;
+    width: 1000px !important;
+  }
+}

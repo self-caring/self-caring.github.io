@@ -4,6 +4,7 @@ title: "Cara Mengatasi Perilaku Seks Bebas"
 subtitle: "Remaja yang memiliki harga diri akan mampu mengatasi dorongan seksualnya secara positif. Ada beberapa yang dilakukan untuk menjaga diri kita dari perilaku seks bebas
 "
 permalink: "/mengatasi-perilaku-seks-bebas"
+background: '/img/posts/bg-04.jpg'
 ---
 ## Seks Bebas Ngatasinnya Gimana?
 
