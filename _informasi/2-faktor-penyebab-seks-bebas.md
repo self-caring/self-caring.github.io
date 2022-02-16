@@ -4,6 +4,7 @@ title: "Faktor Penyebab Seks Bebas"
 subtitle: "Faktor-faktor yang telah menjadi penyebab terjadinya perilaku seks pranikah dibagi menjadi dua yaitu faktor internal dan faktor eksternal.
 "
 permalink: "/faktor-seks-bebas"
+background: '/img/posts/bg-02.jpg'
 ---
 ## Penyebab Seks Bebas Itu Apa Yaa…???
 

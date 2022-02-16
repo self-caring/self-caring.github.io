@@ -4,6 +4,7 @@ title: "Dampak Seks Bebas"
 subtitle: "Dampak seks bagi fisik anak sering dikaitkan dengan Infeksi Menular Seksual (IMS). IMS dapat ditularkan melalui satu orang ke orang lainnya melalui aktivitas seks
 "
 permalink: "/dampak-seks-bebas"
+background: '/img/posts/bg-03.png'
 ---
 ## Seks Bebas Dampaknya Apa Sihh
 a. Kehamilan yang tidak diinginkan.

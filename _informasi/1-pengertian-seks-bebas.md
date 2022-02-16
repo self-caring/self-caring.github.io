@@ -4,6 +4,7 @@ title: "Arti Seks Bebas"
 subtitle: "Dikatakan seks bebas karena dilakukan diluar pernikahan yang tidak sesuai dengan aturan agama, hukum dan budaya yang ada dalam masyarakat. 
 "
 permalink: "/arti-seks-bebas"
+background: '/img/posts/bg-01.jpg'
 ---
 ## Apa Itu Seks Bebas?
 
