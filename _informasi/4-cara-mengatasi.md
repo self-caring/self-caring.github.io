@@ -6,7 +6,7 @@ subtitle: "Remaja yang memiliki harga diri akan mampu mengatasi dorongan seksual
 permalink: "/mengatasi-perilaku-seks-bebas"
 background: '/img/posts/bg-04.jpg'
 ---
-## Seks Bebas Ngatasinnya Gimana?
+## Seks Bebas Bisa Diatasi Kok!
 
 
 <img class="img-fluid img-center" src="/img/sb-mengatasi.jpg" alt="Melibatkan Pertemanan">

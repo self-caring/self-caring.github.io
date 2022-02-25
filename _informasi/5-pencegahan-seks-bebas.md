@@ -5,7 +5,7 @@ subtitle: "Cara mencegah perilaku seks bebas adalah menjauhi diri dari segala ha
 permalink: "/pencegahan-seks-bebas"
 background: '/img/posts/bg-05.jpg'
 ---
-## Cegah Seks Bebas Tuhh Gimana Yaa..
+## Mencegah Seks Bebas Itu Gimana Ya..
 
 
 <img class="img-fluid img-center" src="/img/sb-menolak.jpg" alt="Melibatkan Pertemanan">
@@ -34,4 +34,7 @@ Makanya jangan pernah ragu dan takut untuk menolak jika ada yang mengajakmu untu
 <img class="img-fluid img-center" src="/img/sb-pencegahan.png" alt="Melibatkan Pertemanan">
 
 
-Peran bimbingan konseling di sekolah Secara umum peran BK di sekolah dianggap sebagai polisi sekolah. BK yang sebenarnya paling memiliki peran dalam pemeliharaan pribadi siswa ditempatkan dalam konteks tindakan-tindakan yang menyangkut disiplin siswa. Memanggil, memarahi, menghukum adalah proses yang dianggap menjadi label BK di banyak sekolah. Dengan kata lain BK diposisikan sebagai musuh bagi siswa yang bermasalah, terutama dalam hal mengatasi perilaku seks bebas pada remaja
+Peran bimbingan konseling di sekolah Secara umum peran BK di sekolah dianggap sebagai polisi sekolah. BK yang sebenarnya paling memiliki peran dalam pemeliharaan pribadi siswa ditempatkan dalam konteks tindakan-tindakan yang menyangkut disiplin siswa. Memanggil, memarahi, menghukum adalah proses yang dianggap menjadi label BK di banyak sekolah. Dengan kata lain BK diposisikan sebagai musuh bagi siswa yang bermasalah, terutama dalam hal mengatasi perilaku seks bebas pada remaja.
+
+Setelah teman-teman membaca dan memahami materi tentang bahaya seks bebas jangan lupa juga untuk mengisi kuisioner dibawah ini 😄: 
+<a class="pt-3" href="https://forms.gle/2vk88j9EBZFYNhC78">Kuisioner Perilaku Seks Bebas Remaja</a>
