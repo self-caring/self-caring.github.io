@@ -2,5 +2,5 @@
 layout: prisos
 title: "Pribadi/Sosial"
 permalink: "/pribadi-sosial"
-background: '/img/bg-prisos.jpg'
+background: '/img/bg-prisos.png'
 ---
