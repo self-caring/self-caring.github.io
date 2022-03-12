@@ -2,8 +2,8 @@ title:              BK SMKN 3 Cimahi
 email:              rizkymaaa@gmail.com
 description:        Yuk, Jadikan BK Sahabatmu
 author:             author
-baseurl:            ""
-url:                "https://www.bksahabatmu.xyz"
+baseurl:            ''
+url:                https://bksahabatmu.xyz
 
 # Social Profiles
 twitter_username:  
